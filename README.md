@@ -33,11 +33,3 @@ Cybersecurity Engineer
 <a href="http://www.github.com/dek0wabdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dek0wabdi&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="https://github.com/dek0wabdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek0wabdi&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/dek0wabdi"><img src="https://github-readme-stats.vercel.app/api?username=dek0wabdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dek0wabdi's GitHub stats" /></a>
-
-<a href="http://www.github.com/dek0wabdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dek0wabdi&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/dek0wabdi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dek0wabdi&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/dek0wabdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek0wabdi&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
